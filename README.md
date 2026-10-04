@@ -58,7 +58,7 @@ retrospectives, and the raw-material work that has to happen before any of it.
 
 **Contact / 找到我**
 
-[wang.x.c@outlook.com](mailto:wang.x.c@outlook.com)
+[wang.x.c@outlook.com](mailto:wang.x.c@outlook.com) · [wang-xiaochuan.github.io](https://wang-xiaochuan.github.io/)
 
 ---
 
