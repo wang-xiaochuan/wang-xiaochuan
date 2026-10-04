@@ -1,50 +1,72 @@
 ### 王小川 · Xiaochuan Wang
 
-**Building community infrastructure — agent systems, open tooling, and field research.**
+**Community infrastructure — operations, media, research, writing.**
 
-在社区里做基础设施：agent 系统、开源工具，以及在田野里做出来的研究。
+在社区里做基础设施：运营、媒体、研究、写作。
 
 ---
 
-我在 **706** 做社区基础设施。706 是一个从共同生活长出来的社区实验——一群人住在一起，然后需要一个能真实运转的系统来支撑他们的协作。
+706 is a community experiment that grew out of living together — a group of people sharing a
+space, who then needed a system that could actually carry their collaboration. I build the
+things that system needs: automation that takes repetitive work off people's hands, tools the
+community can use itself, and research written up well enough that others can cite it.
 
-我的工作是把它需要的东西建出来：让 agent 承担重复劳动的自动化系统、社区自己能用的开源工具，以及把过程中的观察写成可被引用的研究。
-
-<br>
-
-**正在做**
-
-**① 社区运行的自动化底座**
-用 agent 系统和自动化工具支撑一个真实运行中的社区——成员、活动、内容、数据。目标是让社区里重复发生的事不再需要人来做。
-
-**② Social Tech 的现场实验**
-把技术议题变成有听众、有产出的现场。办过 12 天的良渚 Creator House 黑客松——开发者、媒体人与社科研究者「三松合一」；也办过清迈的 706 Tech & Humanities Camp，五个主题日，每场由社科学者与技术实践者同台对话。
-
-**③ 可被引用的开放研究**
-共同居住与社区形态的田野观察、白皮书、开源社会科学数据包。把社区里长出来的经验做成别人能用的材料。
+706 是一个从共同生活长出来的社区实验——一群人住在一起，然后需要一个能真实运转的系统来
+支撑他们的协作。我的工作是把它需要的东西建出来：让重复劳动不必再由人承担的自动化、社区
+自己能用的工具，以及写得足够好、能被别人引用的研究。
 
 <br>
 
-**我维护的一套 skill**
+**What I do / 我在做什么**
 
-[`706-skills`](https://github.com/wang-xiaochuan/706-skills) —— 41 个 skill，
-都是我们在真实运营里反复用、反复改出来的：把公众号排版从两小时压成一行命令、
-把微信群素材自动归档、把会议录像剪成可发布的切片。
-不是玩具，是我们自己每天在用的东西。
+**① Operations · 运营**
+Keep the day-to-day machinery moving — tasks, tooling, events, and the recurring work a
+community accumulates. The goal is that anything happening for the tenth time should not
+need a person the eleventh time.
+让日常机器转起来：任务、工具、活动，以及一个社区不断堆积起来的重复劳动。目标是——
+第十次还在发生的事，第十一次不该再需要一个人来做。
+
+**② Media · 媒体**
+Get it out, and keep it. Publishing to WeChat and Xiaohongshu, archiving group-chat material,
+cutting meeting recordings into something publishable, turning a 12-day residency or a 5-day
+camp into a page people can actually read.
+让它被看见、被留存。公众号与小红书的发布、群聊素材的归档、把会议录像剪成可发布的东西、
+把一个 12 天的驻留或 5 天的营地做成一页别人真的会读完的页面。
+
+**③ Research · 研究**
+Turn experience in the field into something citable. Fieldwork on co-living and community
+forms, whitepapers, open social-science datasets.
+把田野里的经验变成能被引用的东西。共同居住与社区形态的田野观察、白皮书、开源社科数据集。
+
+**④ Writing · 写作**
+Find the voice. Style transfer across authors and translators, narrative design for
+retrospectives, and the raw-material work that has to happen before any of it.
+找到声音。跨作家与译者的风格迁移、回顾长文的叙事设计，以及这一切之前必须完成的素材整理。
 
 <br>
 
-**代表作品**
+**Repositories**
 
-| 仓库 | 是什么 |
-|------|--------|
-| [`706-skills`](https://github.com/wang-xiaochuan/706-skills) | 41 个 AI agent skills：公众号排版、社群素材归档、研究长文、会议视频剪辑、简历审查。从社区运营里长出来的工具 |
-| [`wealth`](https://github.com/wang-xiaochuan/wealth) | BTC 信号自动化：多因子加权打分 + MA200 趋势过滤 + ATR 动态止损止盈，GitHub Actions 每小时运行，ntfy 推送 |
-| [`706`](https://github.com/wang-xiaochuan/706) | 良渚 Creator House 黑客松落地页——12 天「三松合一」社会技术实验，页面内含两个交互 Demo · [在线预览](https://wang-xiaochuan.github.io/706/) |
-| [`Wamo2026`](https://github.com/wang-xiaochuan/Wamo2026) | 706 Tech & Humanities Camp 议程 deck——清迈 5 个主题日，社科学者与技术实践者同台 · [在线预览](https://wang-xiaochuan.github.io/Wamo2026/) |
+| | |
+|---|---|
+| [`706-skills`](https://github.com/wang-xiaochuan/706-skills) | 41 AI agent skills we built running a real community — operations, media, research, writing<br>41 个在真实社区运营里长出来的 AI agent skills，按运营/媒体/研究/写作分类 |
+| [`wealth`](https://github.com/wang-xiaochuan/wealth) | BTC signal automation: multi-factor weighted scoring, MA200 trend gate, ATR-based dynamic risk levels<br>BTC 信号自动化：多因子加权打分 + MA200 趋势闸门 + ATR 动态风险位 |
+| [`706`](https://github.com/wang-xiaochuan/706) | 706 Liangzhu Creator House — a 12-day social tech hackathon · [preview](https://wang-xiaochuan.github.io/706/)<br>良渚 Creator House 黑客松落地页——12 天「三松合一」社会技术实验 |
+| [`Wamo2026`](https://github.com/wang-xiaochuan/Wamo2026) | 706 Tech & Humanities Camp, Chiang Mai — five themed days · [preview](https://wang-xiaochuan.github.io/Wamo2026/)<br>706 科技人文营地（清迈）议程 deck——5 个主题日 |
 
 <br>
 
-**找到我**
+**Contact / 找到我**
 
 [wang.x.c@outlook.com](mailto:wang.x.c@outlook.com)
+
+---
+
+<sub>**How this page was made.** This profile README was prepared by Xiaochuan's personal AI
+assistant, working from conversations with him, and uploaded on his behalf. He reviewed and
+approved it. The same applies to the documentation in `706-skills`: the skills are his and
+706's work from real operations; the packaging and writing-up were done by the assistant.</sub>
+
+<sub>**关于这个主页。** 这份自我介绍由王小川的数字助手在与他的交流后整理生成、代为上传，
+经他本人审阅确认。`706-skills` 仓库的文档同理：skill 本身是他与 706 在真实运营中的工作
+成果，整理、清理与文字撰写由助手完成。</sub>
