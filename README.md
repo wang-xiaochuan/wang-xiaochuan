@@ -50,7 +50,6 @@ retrospectives, and the raw-material work that has to happen before any of it.
 | | |
 |---|---|
 | [`706-skills`](https://github.com/wang-xiaochuan/706-skills) | 41 AI agent skills we built running a real community — operations, media, research, writing<br>41 个在真实社区运营里长出来的 AI agent skills，按运营/媒体/研究/写作分类 |
-| [`wealth`](https://github.com/wang-xiaochuan/wealth) | BTC signal automation: multi-factor weighted scoring, MA200 trend gate, ATR-based dynamic risk levels<br>BTC 信号自动化：多因子加权打分 + MA200 趋势闸门 + ATR 动态风险位 |
 | [`706`](https://github.com/wang-xiaochuan/706) | 706 Liangzhu Creator House — a 12-day social tech hackathon · [preview](https://wang-xiaochuan.github.io/706/)<br>良渚 Creator House 黑客松落地页——12 天「三松合一」社会技术实验 |
 | [`Wamo2026`](https://github.com/wang-xiaochuan/Wamo2026) | 706 Tech & Humanities Camp, Chiang Mai — five themed days · [preview](https://wang-xiaochuan.github.io/Wamo2026/)<br>706 科技人文营地（清迈）议程 deck——5 个主题日 |
 
